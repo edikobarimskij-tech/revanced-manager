@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+https://github.com/keeltrace/revanced-manager.git
+
+
 <p align="center">
   <picture>
     <source
@@ -100,5 +110,6 @@ You can find the documentation for ReVanced Manager [here](/docs).
 ## ⚖️ License
 
 ReVanced Manager is licensed under the GPLv3 license. Please see the [license file](LICENSE) for more information.
-[tl;dr](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) you may copy, distribute and modify ReVanced Manager as long as you track changes/dates in source files.
+[tl;dr]
+, distribute and modify ReVanced Manager as long as you track changes/dates in source files.
 Any modifications to ReVanced Manager must also be made available under the GPL, along with build & install instructions.
